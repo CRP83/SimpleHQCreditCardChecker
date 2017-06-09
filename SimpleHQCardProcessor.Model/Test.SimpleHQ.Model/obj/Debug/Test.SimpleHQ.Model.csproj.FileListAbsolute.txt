@@ -1,0 +1,9 @@
+F:\Alvida\Resume\InterviewQuestions\SimpleHQ-CardProcessor\SimpleHQCardProcessor.Model\Test.SimpleHQ.Model\bin\Debug\Test.SimpleHQ.Model.dll
+F:\Alvida\Resume\InterviewQuestions\SimpleHQ-CardProcessor\SimpleHQCardProcessor.Model\Test.SimpleHQ.Model\bin\Debug\Test.SimpleHQ.Model.pdb
+F:\Alvida\Resume\InterviewQuestions\SimpleHQ-CardProcessor\SimpleHQCardProcessor.Model\Test.SimpleHQ.Model\bin\Debug\nunit.framework.dll
+F:\Alvida\Resume\InterviewQuestions\SimpleHQ-CardProcessor\SimpleHQCardProcessor.Model\Test.SimpleHQ.Model\bin\Debug\SimpleHQCardProcessor.Model.dll
+F:\Alvida\Resume\InterviewQuestions\SimpleHQ-CardProcessor\SimpleHQCardProcessor.Model\Test.SimpleHQ.Model\bin\Debug\SimpleHQCardProcessor.Model.pdb
+F:\Alvida\Resume\InterviewQuestions\SimpleHQ-CardProcessor\SimpleHQCardProcessor.Model\Test.SimpleHQ.Model\bin\Debug\nunit.framework.xml
+F:\Alvida\Resume\InterviewQuestions\SimpleHQ-CardProcessor\SimpleHQCardProcessor.Model\Test.SimpleHQ.Model\obj\Debug\Test.SimpleHQ.Model.csprojResolveAssemblyReference.cache
+F:\Alvida\Resume\InterviewQuestions\SimpleHQ-CardProcessor\SimpleHQCardProcessor.Model\Test.SimpleHQ.Model\obj\Debug\Test.SimpleHQ.Model.dll
+F:\Alvida\Resume\InterviewQuestions\SimpleHQ-CardProcessor\SimpleHQCardProcessor.Model\Test.SimpleHQ.Model\obj\Debug\Test.SimpleHQ.Model.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>4111111111111111 4111111111111 4012888888881881 378282246310005 6011111111111117 5105105105105100 5105105105105106 9111111111111111</StartArguments>
+  </PropertyGroup>
+</Project>
